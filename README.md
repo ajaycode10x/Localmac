@@ -5,14 +5,6 @@ This is A Readme.md file   <br>
  I rechanged this file.
      <h1>Hello</h1>
 <div>Hello aWordl</div>
-       <p>THIS IS PARAGRAPH</p>
+<p>THIS IS PARAGRAPH</p>
 
-       # WE USE THIS PAGE. aS A dOCUMENTATION.
-
-             # WE USE THIS PAGE. aS A dOCUMENTATION.
-                   # WE USE THIS PAGE. aS A dOCUMENTATION.
-                         # WE USE THIS PAGE. aS A dOCUMENTATION.
-                               # WE USE THIS PAGE. aS A dOCUMENTATION.
-                                     # WE USE THIS PAGE. aS A dOCUMENTATION.
-                                           # WE USE THIS PAGE. aS A dOCUMENTATION.      # WE USE THIS PAGE. aS A dOCUMENTATION.
-                                           
+            <h4>Use html To manage this Readme File.</h4>
