@@ -1,5 +1,5 @@
-   #Ajay Readme File
-This git is belonged to  html
+#Ajay Readme File
+This git is belonged to  html.
 
 This is A Readme.md file <br>
  I rechanged this file.
