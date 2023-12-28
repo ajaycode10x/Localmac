@@ -1,2 +1,2 @@
 # Git Command
-This iss git push
+This is git push
