@@ -1,2 +1,3 @@
 # Git Command
-This iss git push
+This is git push
+This is command line of Second Branch(Branch1)
